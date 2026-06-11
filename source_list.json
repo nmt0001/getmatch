@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-11T22:45:00+07:00",
+  "sources": [
+    {
+      "id": "default-biaomtv",
+      "name": "BiaomTV",
+      "urls": [
+        "https://biaomtv.pro"
+      ],
+      "provider": "biaomtv",
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "id": "default-socolive",
+      "name": "Socolive",
+      "urls": [
+        "https://socolive17.cv/"
+      ],
+      "provider": "socolive",
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "id": "default-chuoichien",
+      "name": "ChuoiChienTV",
+      "urls": [
+        "https://live35.chuoichientv.com/"
+      ],
+      "provider": "chuoichien",
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "id": "default-colatv",
+      "name": "ColaTV",
+      "urls": [
+        "https://colatv99.live"
+      ],
+      "provider": "colatv",
+      "enabled": true,
+      "metadata": {}
+    },
+    {
+      "id": "default-luongson",
+      "name": "Lương Sơn",
+      "urls": [
+        "https://luongsontv60.net/"
+      ],
+      "provider": "luongson",
+      "enabled": true,
+      "metadata": {}
+    }
+  ]
+}
