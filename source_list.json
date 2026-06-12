@@ -3,6 +3,16 @@
   "updatedAt": "2026-06-11T22:45:00+07:00",
   "sources": [
     {
+      "id": "default-biaomtv",
+      "name": "BiaomTV",
+      "urls": [
+        "https://biaomtv.pro"
+      ],
+      "provider": "biaomtv",
+      "enabled": true,
+      "metadata": {}
+    },
+    {
       "id": "default-socolive",
       "name": "Socolive",
       "urls": [
@@ -36,7 +46,8 @@
       "id": "default-luongson",
       "name": "Lương Sơn",
       "urls": [
-        "https://luongsontv61.net/"
+        "https://luongsontv61.net/",
+        "https://luongsontv60.net/"
       ],
       "provider": "luongson",
       "enabled": true,
