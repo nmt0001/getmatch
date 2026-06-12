@@ -52,6 +52,21 @@
       "provider": "luongson",
       "enabled": true,
       "metadata": {}
+    },
+    {
+      "id": "default-bongda-iptv",
+      "name": "BongDa IPTV",
+      "urls": [
+        "https://bit.ly/bong2026",
+        "https://tinyurl.com/bong2026"
+      ],
+      "provider": "m3u",
+      "parser": "football-m3u",
+      "enabled": true,
+      "metadata": {
+        "format": "m3u",
+        "parser": "football-m3u"
+      }
     }
   ]
 }
