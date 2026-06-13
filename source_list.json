@@ -18,8 +18,7 @@
       "name": "Socolive",
       "urls": [
         "https://socolive17.cv/"
-      ],
-      "logoUrl": "https://socolive17.cv/wp-content/uploads/2024/12/bit-ly-socolive.png",
+      ],      
       "provider": "socolive",
       "enabled": true,
       "metadata": {}
@@ -93,7 +92,7 @@
     "message": "Đã có bản mới với các bản vá nguồn và cải thiện phát lại."
   },
   "systemNotice": {
-    "enabled": true,
+    "enabled": false,
     "title": "Thông báo hệ thống",
     "message": "Đây là phiên bản Test update version"
   }
