@@ -17,8 +17,9 @@
       "id": "default-socolive",
       "name": "Socolive",
       "urls": [
-        "https://socolive17.cv/"
+        "https://bit.ly/socolive"
       ],      
+      "logoUrl": "https://sta.vnres.co/web/assets/soco/img/match-cover.png",
       "provider": "socolive",
       "enabled": true,
       "metadata": {}
