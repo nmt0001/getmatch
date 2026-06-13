@@ -33,10 +33,7 @@
       "logoUrl": "https://media.chuoichientv.com/media/uploads/20250618_144837_81ae2275.png",
       "provider": "chuoichien",
       "enabled": true,
-      "metadata": {
-        "tokenUrl": "https://api.chuoichientv.com/v1/guest-token/generate",
-        "matchesUrl": "https://api-v2.chuoichientv.com/v2/matches"
-      }
+      "metadata": { }
     },
     {
       "id": "default-colatv",
@@ -47,9 +44,7 @@
       "logoUrl": "https://colatv99.live/assets/images/logo.png",
       "provider": "colatv",
       "enabled": true,
-      "metadata": {
-        "matchesUrl": "https://api.cltvlv.com/api/matches"
-      }
+      "metadata": {}
     },
     {
       "id": "default-luongson",
@@ -60,9 +55,7 @@
       "logoUrl": "https://luongsontv60.net/wp-content/uploads/2026/02/cropped-logo-luongson-logo.webp",
       "provider": "luongson",
       "enabled": true,
-      "metadata": {
-        "matchesUrl": "https://api-ls.cdnokvip.com/api/get-livestream-group?isHot=false&isLive=false&isToday=false&isTomorrow=false&offset=0&_t="
-      }
+      "metadata": {}
     },
     {
       "id": "default-bongda-iptv",
