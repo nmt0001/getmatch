@@ -51,7 +51,8 @@
       "id": "default-luongson",
       "name": "Lương Sơn",
       "urls": [
-        "https://luongsontv60.net/"
+        "https://luongsontv60.net/",
+		  "https://ninjafloki.io/"
       ],
       "logoUrl": "https://luongsontv60.net/wp-content/uploads/2026/02/cropped-logo-luongson-logo.webp",
       "provider": "luongson",
