@@ -28,9 +28,10 @@
       "id": "default-chuoichien",
       "name": "ChuoiChienTV",
       "urls": [
+		  "https://live04.chuoichientv.me/",
         "https://live36.chuoichientv.com/"
       ],
-      "logoUrl": "https://media.chuoichientv.com/media/uploads/20250618_144837_81ae2275.png",
+      "logoUrl": "https://live04.chuoichientv.me/images/logo/logo.png",
       "provider": "chuoichien",
       "enabled": true,
       "metadata": { }
