@@ -76,6 +76,20 @@
   "provider": "s8tv",
   "enabled": true,
   "metadata": {}
+},
+{
+  "id": "default-rungtv",
+  "name": "Rung TV",
+  "urls": [
+    "https://live1.rung90tv1.xyz/",
+    "https://tvnet127.rung90tv3.xyz/",
+    "https://tructiep10.rung90.net/",
+    "https://bongda11.rung90tv.link/"
+  ],
+  "logoUrl": "https://rung90.com/favicon.ico",
+  "provider": "rungtv",
+  "enabled": true,
+  "metadata": {}
 }
   ],
   "app": {
