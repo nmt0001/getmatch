@@ -56,7 +56,7 @@
       ],
       "logoUrl": "https://luongsontv60.net/wp-content/uploads/2026/02/cropped-logo-luongson-logo.webp",
       "provider": "luongson",
-      "enabled": true,
+      "enabled": false,
       "metadata": {}
     },
 	{
@@ -80,16 +80,16 @@
   ],
   "app": {
     "enabled": true,
-    "latestVersion": "1.0.8",
-    "minSupportedVersion": "1.0.8",
+    "latestVersion": "1.0.9",
+    "minSupportedVersion": "1.0.9",
     "updateUrl": "https://raw.githubusercontent.com/nmt0001/getmatch/refs/heads/main/app-release.apk",
-    "apkSha256": "d0f5d679b737e71a7f37b90800ff54b0f76e07d836cd557662a1e79918c00b1b",
-    "apkSizeBytes": 32506662,
-    "title": "GetMatch 1.0.8",
+    "apkSha256": "61c614a2c7b4cb1858c24a58a563f4b84eee466e21ccb553d00c2cecb3b78639",
+    "apkSizeBytes": 32541570,
+    "title": "GetMatch 1.0.9",
     "message": "Đã có bản mới với các bản vá nguồn và cải thiện phát lại."
   },
   "systemNotice": {
-    "enabled": true,
+    "enabled": false,
     "title": "Thông báo hệ thống",
     "message": "Chúc mọi người xem vui vẻ"
   }
