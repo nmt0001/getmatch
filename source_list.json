@@ -58,7 +58,16 @@
       "provider": "luongson",
       "enabled": true,
       "metadata": {}
-    }
+    },
+	{
+  "id": "default-giovangtv",
+  "name": "Giờ Vàng TV",
+  "urls": ["https://bit.ly/giovangtv", "https://giovang.city/"],
+  "logoUrl": "https://giovang.city/wp-content/uploads/2024/10/GiovangTV_logo-01-1.png",
+  "provider": "giovangtv",
+  "enabled": true,
+  "metadata": {}
+}
   ],
   "app": {
     "enabled": true,
