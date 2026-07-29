@@ -94,12 +94,12 @@
   ],
   "app": {
     "enabled": true,
-    "latestVersion": "1.0.9",
-    "minSupportedVersion": "1.0.9",
+    "latestVersion": "1.0.10",
+    "minSupportedVersion": "1.0.10",
     "updateUrl": "https://raw.githubusercontent.com/nmt0001/getmatch/refs/heads/main/app-release.apk",
-    "apkSha256": "61c614a2c7b4cb1858c24a58a563f4b84eee466e21ccb553d00c2cecb3b78639",
-    "apkSizeBytes": 32541570,
-    "title": "GetMatch 1.0.9",
+    "apkSha256": "9f3a33be4e57b14bdfd0f02bbfa3e98cf7804dfd850986ad3d9df6e971eaff7d",
+    "apkSizeBytes": 32590776,
+    "title": "GetMatch 1.0.10",
     "message": "Đã có bản mới với các bản vá nguồn và cải thiện phát lại."
   },
   "systemNotice": {
