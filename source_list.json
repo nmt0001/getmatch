@@ -64,7 +64,7 @@
     "enabled": true,
     "latestVersion": "1.0.8",
     "minSupportedVersion": "1.0.8",
-    "updateUrl": "http://go.aftvnews.com/9842817",
+    "updateUrl": "https://raw.githubusercontent.com/nmt0001/getmatch/refs/heads/main/app-release.apk",
     "apkSha256": "d0f5d679b737e71a7f37b90800ff54b0f76e07d836cd557662a1e79918c00b1b",
     "apkSizeBytes": 32506662,
     "title": "GetMatch 1.0.8",
