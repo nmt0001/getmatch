@@ -71,8 +71,8 @@
     "message": "Đã có bản mới với các bản vá nguồn và cải thiện phát lại."
   },
   "systemNotice": {
-    "enabled": false,
+    "enabled": true,
     "title": "Thông báo hệ thống",
-    "message": "Đây là phiên bản Test update version"
+    "message": "Chúc mọi người xem vui vẻ"
   }
 }
