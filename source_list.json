@@ -61,13 +61,13 @@
     }
   ],
   "app": {
-	"enabled": true,
-    "latestVersion": "1.0.6",
-    "minSupportedVersion": "1.0.6",
-    "updateUrl": "http://aftv.news/9842817",
-    "apkSha256": "9450e2b0910741a1ba9e7cadcd33fb5b3b931f28ed5343f8f430a6528a81c03d",
+    "enabled": true,
+    "latestVersion": "1.0.7",
+    "minSupportedVersion": "1.0.7",
+    "updateUrl": "http://go.aftvnews.com/9842817",
+    "apkSha256": "261f34df80e713eb5db3fe013ba88b68960f683a71eb5e34873e2de74666e6a7",
     "apkSizeBytes": 32506662,
-    "title": "GetMatch 1.0.6",
+    "title": "GetMatch 1.0.7",
     "message": "Đã có bản mới với các bản vá nguồn và cải thiện phát lại."
   },
   "systemNotice": {
