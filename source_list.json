@@ -67,6 +67,15 @@
   "provider": "giovangtv",
   "enabled": true,
   "metadata": {}
+},
+{
+  "id": "default-s8tv",
+  "name": "S8TV",
+  "urls": ["https://s8tv003.com/", "https://s8.tv/"],
+  "logoUrl": "https://s8tv003.com/logo_s8tv.png",
+  "provider": "s8tv",
+  "enabled": true,
+  "metadata": {}
 }
   ],
   "app": {
