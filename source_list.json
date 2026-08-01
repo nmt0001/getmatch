@@ -90,7 +90,18 @@
   "provider": "rungtv",
   "enabled": true,
   "metadata": {}
-}
+},
+{
+      "id": "default-xoilac",
+      "name": "X\u00f4i L\u1ea1c",
+      "urls": [
+        "https://xoilacxtz.tv/"
+      ],
+      "logoUrl": "https://xoilacxtz.tv/favicon.ico",
+      "provider": "xoilac",
+      "enabled": true,
+      "metadata": {}
+    }
   ],
   "app": {
     "enabled": true,
